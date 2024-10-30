@@ -1,2 +1,2 @@
-# GaussianKernels
-ガウス過程
+# 自主制作物
+1. 
